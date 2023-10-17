@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 #include <stdio.h>
 #include <locale.h>
 
@@ -40,4 +37,3 @@ int main(){
 	
 	return 0;
 }
->>>>>>> 96f26e590bbc410d7385745222048d1e4f2b23cc
